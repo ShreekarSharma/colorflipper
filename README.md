@@ -1,0 +1,2 @@
+# colorflipper
+Simple JavaScript Project
