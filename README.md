@@ -1,3 +1,3 @@
 # colorflipper
-Simple JavaScript Project
-https://shreekarsharma.github.io/colorflipper/
+## Simple JavaScript Project
+## https://shreekarsharma.github.io/colorflipper/
